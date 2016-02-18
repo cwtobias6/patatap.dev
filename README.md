@@ -19,4 +19,6 @@ How does it help people?
 
 This demonstrates to people that programming doesn't have to be boring or overly complicated. It is an avenue to reveal your passions. 
 
-Link to project: pure-waters-96597.herokuapp.com  Make sure to hit keys on your keyboard!
+Link to project: pure-waters-96597.herokuapp.com  
+
+Make sure to hit keys on your keyboard!

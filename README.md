@@ -21,6 +21,6 @@ This demonstrates to people that programming doesn't have to be boring or overly
 
 Link to project: 
 
-http://pure-waters-96597.herokuapp.com  
+http://patatap.herokuapp.com 
 
 Make sure to hit keys on your keyboard!
